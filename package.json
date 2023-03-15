@@ -2,13 +2,13 @@
   "name": "express-mongodb",
   "version": "1.0.0",
   "description": "Express Restful API Project with MongoDB - Ferdinalaxewall",
-  "main": "app.js",
+  "main": "index.js",
   "type": "module",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ferdinalaxewall",
